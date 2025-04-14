@@ -1,0 +1,23 @@
+.delete{
+    border-radius: 5px;
+    background-color: rgb(228, 77, 26);
+    height: 36px;
+    width: 70px;
+    margin-top: 1px;
+    border: none;
+    color: white;
+    margin-left: 10px;
+}
+.update{
+    border-radius: 5px;
+    background-color: rgb(57, 13, 123);
+    height: 36px;
+    width: 70px;
+    margin-top: 1px;
+    margin-right: 10px;
+    border: none;
+    color: white;
+}
+.title{
+    margin-top: 20px;
+}
